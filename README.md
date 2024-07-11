@@ -17,9 +17,7 @@ I'm currently focused on:
 
 You can reach me through the following channels:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [GUNNAKANG](https://www.linkedin.com/in/gunnakang/)
-- **Twitter**: [@GUNNAKANG](https://twitter.com/GUNNAKANG)
+- **Email**: [ghk3457cpl@gmail.com](mailto:ghk3457cpl@gmail.com)
 
 ## 💬 Let's Connect
 
