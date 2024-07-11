@@ -17,7 +17,7 @@ I'm currently focused on:
 
 You can reach me through the following channels:
 
-- **Email**: [ghk3457cpl@gmail.com](mailto:ghk3457cpl@gmail.com)
+- **Email**: [ghk3457cp@gmail.com](mailto:ghk3457cpl@gmail.com)
 
 ## 💬 Let's Connect
 
