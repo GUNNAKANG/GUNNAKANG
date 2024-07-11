@@ -1,3 +1,4 @@
+![](https://assets.pokemon.com/assets/cms2/img/misc/countries/au/country_detail_pokemon.png)
 # Welcome to GUNNAKANG's GitHub!
 
 Hello! I'm GUNNAKANG, a beginner developer who has just started coding. I'm eager to learn and grow in the field of software development. This GitHub page will be a place for me to document my journey and showcase my progress as I learn Python.
