@@ -1,15 +1,30 @@
-## Hi there 👋
+# Welcome to GUNNAKANG's GitHub!
 
-**GUNNAKANG/GUNNAKANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm GUNNAKANG, a beginner developer who has just started coding. I'm eager to learn and grow in the field of software development. This GitHub page will be a place for me to document my journey and showcase my progress as I learn Python.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+As a beginner, I'm currently learning the basics of Python.
 
+## 🌱 Currently Learning
+
+I'm currently focused on:
+
+- Python programming fundamentals
+- How to use Git and GitHub for version control
+
+## 📫 Contact
+
+You can reach me through the following channels:
+
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [GUNNAKANG](https://www.linkedin.com/in/gunnakang/)
+- **Twitter**: [@GUNNAKANG](https://twitter.com/GUNNAKANG)
+
+## 💬 Let's Connect
+
+Feel free to connect with me if you have any questions, suggestions, or just want to say hi!
+
+---
+
+*This README.md was generated with ❤️ by GUNNAKANG.*
